@@ -12,7 +12,7 @@ In this step, we normalize the data by performing the following actions:
 - Remove dashes and spaces to clean up the text.
 
 ### Date Filtering
-In this step, we further clean the data by removing specific job titles that are not relevant to our analysis. For example, we might remove "security officer" and "security engineer" job descriptions.
+In this step, we further clean the data by removing specific job titles that are not relevant to our analysis. For example, we removed "security officer" and "security engineer" in job titles.
 
 ## Categorization
 To simplify the analysis, we create 11 job categories based on specific job titles. For example:
