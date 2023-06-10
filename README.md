@@ -11,10 +11,10 @@ In this step, we normalize the data by performing the following actions:
 - Convert all text to lowercase to ensure consistency.
 - Remove dashes and spaces to clean up the text.
 
-### Date Filtering
-In this step, we further clean the data by removing specific job titles that are not relevant to our analysis. For example, we removed "security officer" and "security engineer" in job titles.
+### Filter the Data
+In this step, we further clean the data by removing specific job titles that are not relevant to our analysis. For example, we didn't count "security officer" in job titles.
 
-## Categorization
+### Categorize 
 To simplify the analysis, we create 11 job categories based on specific job titles. For example:
 ```python
 data_engineer_nl = df_NL[df_NL['job_name'].str.contains("data engineer")] 
