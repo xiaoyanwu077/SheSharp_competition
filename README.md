@@ -2,7 +2,7 @@
 
 This repository contains code and data analysis for the SheSharp competition. The goal of this project is to extract skills from job descriptions. Below are the steps followed in the analysis:
 
-## project idea: 
+## Project idea: 
 For new graduates and starters, job seeking are always confusing. The skills required at job market are not taught in school. Therefore, we want to come up with a wordcloud (most frequently wanted skills/tech stack) for each type of IT job. Having this as a reference, job seekers can have a more targeted preparation for the market. For those whose skill sets have already some overlapping with the market need, they can feed our wordcloud and their original cover letter to gpt to write a cover letter that has higher chance to pass the Application Tracking System. For the future, we can train a Generative AI to facilitate the experienced job seaker in tailoring their cover letter to the IT sector they are applying to.
 
 
