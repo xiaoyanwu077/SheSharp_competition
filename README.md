@@ -28,6 +28,7 @@ This code filters the dataset to select only job descriptions related to data en
 To visualize the extracted skills, we employ the Wordcloud technique. This technique generates a visual representation of the most frequently occurring words in the job descriptions, providing insights into the key skills sought by employers.
 
 For Wordcloud Visualization for global dataset, check https://github.com/xiaoyanwu077/SheSharp_competition/blob/main/job_posting_analysis-global.ipynb
+
 For Wordcloud Visualization for Dutch dataset, check https://github.com/xiaoyanwu077/SheSharp_competition/blob/main/job-posting-analysis-nl.ipynb
 
 Data_engineer:
