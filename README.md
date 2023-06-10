@@ -33,58 +33,69 @@ For Wordcloud Visualization for global dataset, check https://github.com/xiaoyan
 
 Our original data set for data_engineer_global has 8 entries
 After cleaning, we are working with 8 entries
+
 ![image](https://github.com/xiaoyanwu077/SheSharp_competition/assets/56236129/0118b9d3-0709-441e-b40f-17d0d0b51843)
 
 
 Our original data set for data_scientist_global has 3 entries
 After cleaning, we are working with 3 entries
-![image](https://github.com/xiaoyanwu077/SheSharp_competition/assets/56236129/e20435ac-38a5-466d-8e16-dbb09c637328)
 
+![image](https://github.com/xiaoyanwu077/SheSharp_competition/assets/56236129/e20435ac-38a5-466d-8e16-dbb09c637328)
 
 Our original data set for frontend_global has 12 entries
 After cleaning, we are working with 10 entries
+
 ![image](https://github.com/xiaoyanwu077/SheSharp_competition/assets/56236129/dc0fafed-8dfe-45d5-815d-a60071df4a20)
 
 
 Our original data set for backend_global has 15 entries
 After cleaning, we are working with 12 entries
+
 ![image](https://github.com/xiaoyanwu077/SheSharp_competition/assets/56236129/dcfaa8e3-65c1-414c-b023-61403ab9bcb3)
 
 
 Our original data set for data_analyst_global has 9 entries
 After cleaning, we are working with 8 entries
+
 ![image](https://github.com/xiaoyanwu077/SheSharp_competition/assets/56236129/b45412e0-77af-4dc5-8631-67e9c85dd142)
 
 
 Our original data set for full_stack_global has 21 entries
 After cleaning, we are working with 20 entries
+
 ![image](https://github.com/xiaoyanwu077/SheSharp_competition/assets/56236129/9d5e2d7e-53fc-4ef9-b4b2-f14693ffbd1f)
 
 Our original data set for product_manager_global has 10 entries
 After cleaning, we are working with 7 entries
+
 ![image](https://github.com/xiaoyanwu077/SheSharp_competition/assets/56236129/f39bf800-5990-485f-86e8-00819b826225)
 
 Our original data set for product_owner_global has 4 entries
 After cleaning, we are working with 3 entries
+
 ![image](https://github.com/xiaoyanwu077/SheSharp_competition/assets/56236129/4146adb5-e860-49b4-8a82-c6865299a777)
 
 
 Our original data set for quality_global has 7 entries
 After cleaning, we are working with 7 entries
+
 ![image](https://github.com/xiaoyanwu077/SheSharp_competition/assets/56236129/fd43b1b7-4f72-4c49-ab1c-bf39b814d7f4)
 
 
 Our original data set for support_global has 15 entries
 After cleaning, we are working with 13 entries
+
 ![image](https://github.com/xiaoyanwu077/SheSharp_competition/assets/56236129/cecdb3fc-c332-479d-8060-781d0cb7d0fb)
 
 
 Our original data set for devops_global has 13 entries
 After cleaning, we are working with 13 entries
+
 ![image](https://github.com/xiaoyanwu077/SheSharp_competition/assets/56236129/56379fcc-6331-4339-ba0f-459e1d9fd759)
 
 
 Our original data set for security_engineer_global has 8 entries
 After cleaning, we are working with 7 entries
+
 ![image](https://github.com/xiaoyanwu077/SheSharp_competition/assets/56236129/6e6d0452-e36d-41b3-acce-cf2f02d5da9e)
 
