@@ -17,7 +17,8 @@ In this step, we further clean the data by removing specific job titles that are
 ## Categorization
 To simplify the analysis, we create 11 job categories based on specific job titles. For example:
 ```python
-data_engineer_nl = df_NL[df_NL['job_name'].str.contains("data engineer")]
+data_engineer_nl = df_NL[df_NL['job_name'].str.contains("data engineer")] 
+```
 This code filters the dataset to select only job descriptions related to data engineers. We repeat this process for other job categories as well.
 
 ## Wordcloud Visualization
