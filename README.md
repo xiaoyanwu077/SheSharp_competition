@@ -3,7 +3,7 @@
 This repository contains code and data analysis for the SheSharp competition. The goal of this project is to extract skills from job descriptions. Below are the steps followed in the analysis:
 
 ## Read the Data
-We start by reading the data from two datasets: `<data-global>` and `<data_NL>`. These datasets contain job descriptions that we will analyze to extract skills.
+We start by reading the data from two datasets: `<data-global>` and `<data-NL>`. These datasets contain job descriptions that we will analyze to extract skills.
 
 ## Clean the Data
 ### Data Normalization
