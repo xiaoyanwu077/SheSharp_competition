@@ -9,9 +9,7 @@ For new graduates and starters, job seeking are always confusing. The skills req
 ## Read the Data
 We start by reading the data from two datasets: `<data-global>` and `<data-NL>`. These datasets contain job descriptions that we will analyze to extract skills.
 
-## Clean the Data
-To do fuzzy matching for job name, we normalize the job name column by converting to lower case, removing tabulation, punctuation, and special characters.
-### Data Normalization
+## Data Cleaning and Normalization
 In this step, we normalize the data by performing the following actions:
 - Convert all text to lowercase to ensure consistency.
 - Remove dashes and spaces to clean up the text.
